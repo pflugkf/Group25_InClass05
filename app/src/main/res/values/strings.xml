@@ -1,0 +1,11 @@
+<!--Assignment #: InClass05
+File Name: Group25_InClass05 - strings.xml
+Full Name: Kristin Pflug-->
+
+<resources>
+    <string name="app_name">Group25_InClass05</string>
+    <string name="categories_fragment_welcome_text">Welcome</string>
+    <string name="details_fragment_genres_list_label">Genre</string>
+    <string name="categories_fragment_title">App Categories</string>
+    <string name="details_fragment_title">App Details</string>
+</resources>
